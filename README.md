@@ -31,10 +31,10 @@ A Python-based GUI application that allows you to **summarize text** from user i
 
 Make sure you have Python 3 installed. Then, install the required Python libraries:
 
-pip install tkinter
-pip install newspaper3k
-pip install sumy
-pip install pillow
+pip install tkinter ,
+pip install newspaper3k ,
+pip install sumy ,
+pip install pillow,
 
 
 ## ▶️ How to Run
@@ -46,15 +46,11 @@ python text_summarizer.py
 ## 📌 Usage
 
 1. Choose the input method:
-
-   .Summarize from URL
-   .Paste your own text
-
+   * Summarize from URL
+   * Paste your own text 
 2. Enter the URL or paste your content.
-
-3.Click **"Summarize"**.
-
-4.View the output in the summary box. 
+3. Click **"Summarize"**.
+4. View the output in the summary box. 
 
 ---
 
