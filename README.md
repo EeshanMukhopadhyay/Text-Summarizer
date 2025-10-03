@@ -31,10 +31,13 @@ A Python-based GUI application that allows you to **summarize text** from user i
 
 Make sure you have Python 3 installed. Then, install the required Python libraries:
 
-pip install tkinter ,
-pip install newspaper3k ,
-pip install sumy ,
-pip install pillow,
+pip install tkinter 
+
+pip install newspaper3k
+
+pip install sumy
+
+pip install pillow
 
 
 ## ▶️ How to Run
