@@ -36,7 +36,9 @@ pip install newspaper3k
 pip install sumy
 pip install pillow
 
-##▶️ How to Run
+---
+
+## ▶️ How to Run
 
 After installing dependencies, simply run:
 
