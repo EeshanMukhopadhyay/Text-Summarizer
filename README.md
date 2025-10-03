@@ -1,6 +1,6 @@
 # Text-Summarizer
 
-A Python-based GUI application that allows you to **summarize text** or **articles from URLs** using Natural Language Processing (NLP) techniques. The app uses the **Sumy** library with **LSA (Latent Semantic Analysis)** summarization and features a simple interface built with **Tkinter**.
+A Python-based GUI application that allows you to **summarize text** from user input or **articles from URLs** using Natural Language Processing (NLP) techniques. The app uses the **Sumy** library with **LSA (Latent Semantic Analysis)** summarization and features a simple interface built with **Tkinter**.
 
 ![App Screenshot](text-analysis-tools_new.jpg)
 
