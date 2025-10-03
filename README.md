@@ -36,7 +36,6 @@ pip install newspaper3k
 pip install sumy
 pip install pillow
 
----
 
 ## ▶️ How to Run
 
@@ -44,7 +43,7 @@ After installing dependencies, simply run:
 
 python text_summarizer.py
 
-**📌 Usage**
+## 📌 Usage
 
 1. Choose the input method:
 
@@ -53,12 +52,13 @@ python text_summarizer.py
 
 2. Enter the URL or paste your content.
 
-3.Click "Summarize".
+3.Click **"Summarize"**.
 
-4.View the output in the summary box.
+4.View the output in the summary box. 
 
+---
 
-**❗ Troubleshooting**
+## ❗ Troubleshooting
 
 If you encounter nltk or newspaper3k errors, try running:
 
@@ -67,7 +67,7 @@ nltk.download('punkt')
 
 Make sure your system is connected to the internet when using the URL option (to fetch and parse the article).
 
-**Connect**
+## 🔗 Connect
 
 Feel free to connect or raise issues:
 
