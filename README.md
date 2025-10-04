@@ -29,7 +29,7 @@ A Python-based GUI application that allows you to **summarize text** from user i
 
 **1. Clone the repository**
 
-git clone https://github.com/EeshanMukhopadhyay/Text-Summarizer.git
+git clone https://github.com/EeshanMukhopadhyay/Text-Summarizer.git                         
 cd Text-Summarizer
 
 **2. Install dependencies**
