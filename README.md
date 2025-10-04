@@ -32,6 +32,7 @@ A Python-based GUI application that allows you to **summarize text** from user i
 git clone https://github.com/EeshanMukhopadhyay/Text-Summarizer.git                         
 cd Text-Summarizer
 
+
 **2. Install dependencies**
 
 Make sure you have Python 3 installed. Then, install the required Python libraries:
