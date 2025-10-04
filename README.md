@@ -20,6 +20,7 @@ A Python-based GUI application that allows you to **summarize text** from user i
 ![App Screenshot](https://github.com/EeshanMukhopadhyay/Text-Summarizer/blob/21714fee80a5772393985004d651bb2ee166bf13/screenshot.png)
 
 
+---
 
 ## 🧰 Technologies Used
 
