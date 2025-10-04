@@ -15,6 +15,13 @@ A Python-based GUI application that allows you to **summarize text** from user i
 
 ---
 
+## 🖼 GUI Preview
+
+![App Screenshot](text-analysis-tools_new.jpg)
+
+
+---
+
 ## 🧰 Technologies Used
 
 - Python 3
